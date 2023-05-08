@@ -1,0 +1,13 @@
+x64/Debug
+*.sln
+*.vcxproj*
+*.recipe
+*.tlog
+*.log
+*.pdb
+*.obj
+*.ipdb
+*.iobj
+*.vs
+
+
